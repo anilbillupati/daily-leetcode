@@ -11,6 +11,5 @@ class Solution {
              ans[index++]=num;
          }
          return ans;
-
     }
 }
